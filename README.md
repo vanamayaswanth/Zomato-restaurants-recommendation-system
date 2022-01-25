@@ -19,3 +19,4 @@ This is a Mini-project on Zomato Restaurants Recommendation System using Zomato 
 7.  pip install nltk
 
 
+#Thanks For The great Contribution To our Projects by @sneh713 && vidhi-mathur 
