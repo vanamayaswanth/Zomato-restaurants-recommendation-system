@@ -10,11 +10,11 @@ This is a Mini-project on Zomato Restaurants Recommendation System using Zomato 
 #prerequisite
 
 
-Pip install Numpy 
-pip install pandas 
-pip install Seaborn 
-pip install re
-pip install matplotlib
-pip install sklearn
-pip install nltk
+1.Pip install Numpy 
+2.pip install pandas 
+3.pip install Seaborn 
+4.pip install re
+5.pip install matplotlib
+6.pip install sklearn
+7.pip install nltk
 
